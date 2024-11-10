@@ -2,7 +2,7 @@ from tkinter import*
 
 root = Tk()
 root.title("Calculator")
-root.iconphoto(False, PhotoImage(file="calculator.png"))
+root.iconphoto(False, PhotoImage(file="assets/calculator.png"))
 root.resizable(False, False)
 
 e = Entry(root, width=40, borderwidth=5)

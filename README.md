@@ -18,8 +18,8 @@ python -m tkinter
 ### Installation
 1. Clone the repository:  
 ```
-git clone https://github.com/JoaoMLViegas/calculator.git  
-cd calculator
+git clone https://github.com/JoaoMLViegas/calculator_app.git  
+cd calculator_app
 ```
 2. Run the app:  
 ```
@@ -35,12 +35,15 @@ This calculator only calculates results when = is pressed, so to use it you shou
 - Pressing the a^b or √ buttons opens a smaller window allowing exponent and root operations respectively.
 
 ## **Project Structure**
-calculator-app/  
+calculator_app/  
 ├── calculator.py &emsp;# Main app code with tkinter GUI  
-└── README.md &emsp;# Project documentation  
+├── README.md &emsp;# Project documentation  
+├── LICENSE &emsp;# Project license  
+└── assets/ &emsp;# Any images or other assets used  
 
 ## **Screenshots**
-(Optional) Add a screenshot of the app here to give a quick preview.
+(To be added...) Add a screenshot of the app here to give a quick preview.
 
 ## **License**
-(Optional) Specify a license if you want, e.g., MIT License.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).  
+See the [LICENSE](LICENSE) file for more details.
