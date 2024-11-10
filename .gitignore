@@ -1,0 +1,4 @@
+_venv_calculator/
+__pycache__/
+*.pyc
+*.pyo
